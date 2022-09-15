@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaisonMachado
-- 👀 I’m interested in C, C++, C#, Python, java and js 
+- 👀 I’m interested in C#, Python, and js 
 - 🌱 I’m currently C# and js
 - 💞️ I’m looking to collaborate on C# and Js
 - 📫 How to reach me ... i'm in jaisonmachado.ans@gmail, www.linkedin.com/in/jaison-machado-0aa9b4127
