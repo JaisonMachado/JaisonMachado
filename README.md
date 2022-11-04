@@ -1,9 +1,9 @@
 _______________________________________________
 | 👋 Hi, I’m @JaisonMachado                   |
 _______________________________________________
-| 👀 I’m interested in C#, Python, and js     |
+| 👀 I’m interested in C#, .Net and js     |
 | 🌱 I’m currently C# and js                  |
-| 💞️ I’m looking to collaborate on C# and Js  |
+|  |
 
 # Acesse minha Git Pages: https://jaisonmachado.github.io/Portfolio/Index
 
